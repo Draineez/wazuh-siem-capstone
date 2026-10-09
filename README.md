@@ -4,12 +4,9 @@
 
 Compiled by: Gberemor Solomon
 
-TechCrush no. CYBE/2026/TC-7/0747
-
 Class: Cyber Security Class B, Cohort 7
 
-Team Members: CYBE/2026/TC-7/0590, CYBE/2026/TC-7/0452,
-CYBE/2026/TC-7/0747
+
 
 Date: 21 July,2026
 
